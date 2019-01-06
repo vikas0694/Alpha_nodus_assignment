@@ -9,4 +9,4 @@
 3. cd Alpha_nodus_assignment
 4. python3 alpha_nodus.py
 
-**A csv new file named file.json and output.csv will be generated on the current directory**
+**A new file named file.json and output.csv will be generated on the current directory**
