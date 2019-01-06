@@ -1,0 +1,10 @@
+[
+    {
+        "start_time": "1545656132619", 
+        "restart_count": 1017, 
+        "tracker_id": "6a144d52-2da0-4039-af37-6912b7af87c7", 
+        "end_time": 1545656112643, 
+        "restart_reason": "self_restart", 
+        "installation_id": "f52ea36d-5506-48e6-a7c3-16c9d5c7c377"
+    }
+]
